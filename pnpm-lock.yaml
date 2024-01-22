@@ -13251,8 +13251,8 @@ importers:
         version: 4.1.0(vue@3.3.7)
     devDependencies:
       '@originjs/vite-plugin-federation':
-        specifier: 1.3.3
-        version: 1.3.3
+        specifier: 1.3.4
+        version: 1.3.4
       '@vitejs/plugin-vue':
         specifier: 3.1.0
         version: 3.1.0(vite@3.2.7)(vue@3.3.7)
@@ -33827,8 +33827,8 @@ packages:
       '@octokit/openapi-types': 18.0.0
     dev: true
 
-  /@originjs/vite-plugin-federation@1.3.3:
-    resolution: {integrity: sha512-EJedGCEB1vZatougqF3A+DwbcNpaAfFjlLxp/BbxpwO36vQ/WMjvtlpfkiyeIolTbFgu85OcXAc98Q2CXtCfJQ==}
+  /@originjs/vite-plugin-federation@1.3.4:
+    resolution: {integrity: sha512-H/6OcgkAuRyW+YepB++scRkjWxA9jWZ41Qyt2OcbVUd3pN3xN/9TA04+eCLUCttX4N454ztfcMb1iOKP5tnGdg==}
     engines: {node: '>=14.0.0', pnpm: '>=7.0.1'}
     dependencies:
       estree-walker: 3.0.3
